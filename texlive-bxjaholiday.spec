@@ -3,7 +3,7 @@ Version:	60636
 Release:	2
 Summary:	Support for Japanese holidays
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxjaholiday
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxjaholiday
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxjaholiday.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxjaholiday.doc.r%{version}.tar.xz
